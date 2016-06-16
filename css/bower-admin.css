@@ -1,0 +1,70 @@
+.post-type-bower_component.post-new-php #bower_component_settings, .post-type-bower_component.post-new-php #bower_component_dependencies{
+    display: none;
+}
+
+.post-type-bower_component.post-php #bower_component_settings, .post-type-bower_component.post-php #bower_component_dependencies{
+    display: block;
+}
+
+.post-type-bower_component #post-body #normal-sortables{
+    min-height: 0;
+}
+
+.post-type-bower_component table.bower_settings{
+    width: 100%;
+}
+
+.post-type-bower_component table.bower_settings input,
+.post-type-bower_component table.bower_settings select{
+    width: 100%;
+}
+
+.post-type-bower_component #bower_components_filter_container{
+    margin-top: 20px;
+}
+
+.post-type-bower_component #bower_components_filter_container.main > div{
+    display: none;
+}
+
+.post-type-bower_component #bower_components_filter_container.main > div.main{
+    display: block;
+}
+
+.post-type-bower_component #bower_components_filter_container.main > div.min,
+.post-type-bower_component #bower_components_filter_container.main.min > div.main{
+    display: none;
+}
+
+.post-type-bower_component #bower_components_filter_container.main.min > div.main.min{
+    display: block;
+}
+
+.post-type-bower_component #bower_components_filter_container .main input + label b{
+    font-size: 125%;
+    color: #000;
+}
+
+.post-type-bower_component b.version{
+    float: right;
+}
+
+.post-type-bower_component input + label small{
+    float: right;
+}
+
+.post-type-bower_component input + label + table.bower_settings tr{
+    display: none;
+}
+
+.post-type-bower_component input:checked + label + table.bower_settings tr{
+    display: table-row;
+}
+
+.post-type-bower_component table.dependencies{
+    width: 100%;
+}
+
+.post-type-bower_component table.dependencies thead{
+    font-weight: 600;
+}

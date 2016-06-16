@@ -1,0 +1,179 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Bower\n"
+"POT-Creation-Date: 2016-04-19 12:49+0300\n"
+"PO-Revision-Date: 2016-04-19 12:49+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: wp-bower.php\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin.php:68
+msgid "Install"
+msgstr "Установить"
+
+#: admin.php:93
+msgid "Status"
+msgstr "Статус"
+
+#: admin.php:93
+msgid "Component"
+msgstr "Компонент"
+
+#: admin.php:93 admin.php:397 admin.php:426
+msgid "Version"
+msgstr "Версия"
+
+#: admin.php:354
+msgid "Section of the website"
+msgstr "Раздел сайта"
+
+#: admin.php:360
+msgid "Choose a location for the output of the script"
+msgstr "Выберите место для вывода скрипта"
+
+#: admin.php:361
+msgid "Header"
+msgstr "В шапке"
+
+#: admin.php:361
+msgid "Footer"
+msgstr "В подвале"
+
+#: admin.php:375
+msgid "Settings"
+msgstr "Настройки пакета"
+
+#: admin.php:376
+msgid "Dependencies"
+msgstr "Зависимости пакета"
+
+#: admin.php:394
+msgid "Filter"
+msgstr "Фильтр"
+
+#: admin.php:394
+msgid "Basic module files"
+msgstr "Основные файлы модуля"
+
+#: admin.php:394
+msgid "min"
+msgstr "сжатые"
+
+#: admin.php:394
+msgid "All module files"
+msgstr "Все файлы модуля"
+
+#: admin.php:426
+msgid "Module"
+msgstr "Модуль"
+
+#: admin.php:436
+msgid "There is no module dependencies"
+msgstr "У модуля нет зависимостей"
+
+#: admin.php:448 admin.php:449
+msgid "Bower component was updated."
+msgstr "Bower component обновлён."
+
+#: admin.php:448
+msgid "View entry Bower component"
+msgstr "Посмотреть запись Bower component"
+
+#: admin.php:450
+msgid "Bower component was removed."
+msgstr "Bower component удалён."
+
+#: admin.php:451
+msgid "Record Bower component was updated."
+msgstr "Запись Bower component обновлена."
+
+#: admin.php:452
+msgid "Record Bower component recovered from the revision"
+msgstr "Запись Bower component восстановлена из ревизии"
+
+#: admin.php:453
+#, php-format
+msgid "Bower component \"% s\" is published."
+msgstr "Bower component \"%s\" опубликован."
+
+#: admin.php:454 admin.php:455
+msgid "Record Bower component is stored."
+msgstr "Запись Bower component сохранена."
+
+#: admin.php:455 admin.php:456 admin.php:458
+msgid "Preview Bower component recording"
+msgstr "Предпросмотр записи Bower component"
+
+#: admin.php:456
+msgid "Record Bower component is scheduled for:"
+msgstr "Запись Bower component запланирована на:"
+
+#: admin.php:457
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: admin.php:458
+msgid "Draft Bower component record is updated."
+msgstr "Черновик записи Bower component обновлен."
+
+#: wp-bower.php:47 wp-bower.php:48
+msgid "Add new"
+msgstr "Установить новый"
+
+#: wp-bower.php:49
+msgid "Edit bower component"
+msgstr "Редактирование bower component"
+
+#: wp-bower.php:50
+msgid "New bower component"
+msgstr "Новый bower component"
+
+#: wp-bower.php:51
+msgid "View bower component"
+msgstr "Просмотреть bower component"
+
+#: wp-bower.php:52
+msgid "Search bower component"
+msgstr "Найти bower component"
+
+#: wp-bower.php:53
+msgid "Not found bower components"
+msgstr "Установленных компонентов bower не найдено"
+
+#: wp-bower.php:54
+msgid "No bower components in trash"
+msgstr "Корзина пуста"
+
+#. Plugin Name of the plugin/theme
+msgid "WP Bower"
+msgstr "WP Bower"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://yogurt-design.com"
+msgstr "https://yogurt-design.com"
+
+#. Description of the plugin/theme
+msgid "Frontend packages manager based Bower."
+msgstr "Менеджер фронтенд зависимостей на основе Bower."
+
+#. Author of the plugin/theme
+msgid "Tit@r"
+msgstr "Tit@r"
+
+#~ msgid "Record Bower component recovered from the audit"
+#~ msgstr "Запись Bower component восстановлена из ревизии"
